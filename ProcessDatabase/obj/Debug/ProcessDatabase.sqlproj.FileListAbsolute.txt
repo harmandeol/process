@@ -1,9 +1,0 @@
-D:\ProcessDatabase\ProcessDatabase\bin\Debug\ProcessDatabase.dacpac
-D:\ProcessDatabase\ProcessDatabase\bin\Debug\ProcessDatabase.dll
-D:\ProcessDatabase\ProcessDatabase\bin\Debug\ProcessDatabase.pdb
-D:\ProcessDatabase\ProcessDatabase\obj\Debug\ProcessDatabase.dll
-D:\ProcessDatabase\ProcessDatabase\obj\Debug\ProcessDatabase.pdb
-D:\ProcessDatabase\ProcessDatabase\obj\Debug\Model.xml
-D:\ProcessDatabase\ProcessDatabase\obj\Debug\refactor.xml
-D:\ProcessDatabase\ProcessDatabase\obj\Debug\postdeploy.sql
-D:\ProcessDatabase\ProcessDatabase\obj\Debug\predeploy.sql
